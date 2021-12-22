@@ -9,7 +9,7 @@
     },
   "scripts": {
     
-    "start": "node index"
+    "start": "node server/index"
     
   },
   "keywords": [],
